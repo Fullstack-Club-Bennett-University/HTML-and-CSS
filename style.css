@@ -82,7 +82,7 @@ h1 {
 }
 
 .project-card:hover {
-    transform: translateY(-5px);
+    transform: translateY(-10px);
 }
 
 .project img {
